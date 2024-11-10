@@ -1,10 +1,10 @@
 # **MNIST Pattern recognition TensorFlow & Streamlit**
 
 ## **Features**
-[x] Multi training. <br>
-[x] GPU/CPU inference. <br>
-[x] UI for interaction <br>
-[x] Config GPU/NPU/MPS service for all OS <br>
+- [x] Multi training.
+- [x] GPU/CPU inference.
+- [x] UI for interaction.
+- [x] Config GPU/NPU/MPS service for all OS.
 
 ## **Results**
 - Classification report

@@ -26,6 +26,16 @@ python train.py --model_name=mnist_model --save_path=model.keras --epochs=100 --
 python test.py --image_path=<image_name>.<image_extension>
 ```
 
+## **Run GUI**
+```bash
+stream lit run gui.py
+```
+
+## **Run with docker**
+```bash
+docker-compose up -d --build
+```
+
 ## **Results**
 - Classification report
 ![Ảnh ví dụ](./classification_report_image.png)

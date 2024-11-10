@@ -21,6 +21,11 @@ pip install -r requirement.macos.txt
 python train.py --model_name=mnist_model --save_path=model.keras --epochs=100 --batch_size=512 --multi_gpu=False --num_samples_test=20
 ```
 
+## **Testing**
+```bash
+python test.py --image_path=<image_name>.<image_extension>
+```
+
 ## **Results**
 - Classification report
 ![Ảnh ví dụ](./classification_report_image.png)

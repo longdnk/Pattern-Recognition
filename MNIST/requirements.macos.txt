@@ -1,0 +1,13 @@
+tensorflow-macos
+tensorflow-metal
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+plotly
+pydot
+streamlit
+graphviz
+seaborn

@@ -1,0 +1,12 @@
+classification_report_image.png
+classification_report.csv
+confusion_matrix.png
+Dockerfile
+precision_recall_f1.png
+requirements.macos.txt
+requirements.txt
+test_result.png
+test.py
+train.py
+training_history.png
+docker-compose.yaml

@@ -27,6 +27,7 @@ python test.py --image_path=<image_name>.<image_extension>
 ```
 
 ## **Run GUI**
+Local port is 8501
 ```bash
 stream lit run gui.py
 ```
